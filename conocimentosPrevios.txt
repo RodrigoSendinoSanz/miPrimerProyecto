@@ -3,3 +3,4 @@ Mis conocimientos previos de desarrollo web:
 - CSS3
 - JavaScript
 - Java
+- PHP
