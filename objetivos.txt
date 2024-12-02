@@ -1,0 +1,4 @@
+Objetivos del master de Fullstack:
+- Aprender a desarrollar aplicaciones web completas, desde la base de datos hasta la interfaz
+- Aprender a utilizar tecnologías como Node.js, Express, MongoDB, React, Redux
+- Aprender a diseñar y desarrollar aplicaciones escalables y seguras
