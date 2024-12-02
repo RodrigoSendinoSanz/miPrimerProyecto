@@ -7,3 +7,4 @@ Mis conocimientos previos de desarrollo web:
 - MySQL
 - Spring Boot
 - HubSpot
+- WordPress
