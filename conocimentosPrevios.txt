@@ -4,3 +4,4 @@ Mis conocimientos previos de desarrollo web:
 - JavaScript
 - Java
 - PHP
+- MySQL
