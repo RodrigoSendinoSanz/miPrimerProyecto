@@ -5,3 +5,4 @@ Mis conocimientos previos de desarrollo web:
 - Java
 - PHP
 - MySQL
+- Spring Boot
