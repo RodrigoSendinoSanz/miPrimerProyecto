@@ -1,0 +1,2 @@
+Objetivos del master de Fullstack:
+- Aprender a desarrollar aplicaciones web completas, desde la base de datos hasta la interfaz
