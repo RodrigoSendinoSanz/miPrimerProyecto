@@ -2,3 +2,4 @@ Mis conocimientos previos de desarrollo web:
 - HTML5
 - CSS3
 - JavaScript
+- Java
